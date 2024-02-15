@@ -13,6 +13,9 @@ Smart typing with Bengali and English language.
 
 NOTE: The permissions you are viewing are for the benefit of the user and users only. #BengalKeyboard respects your privacy and data.
 
+## Cover
+![screenshot](assets/Screenshot/cover.png)
+
 ## Download
 <a href="https://play.google.com/store/apps/details?id=com.freelancermustakin.bengalkeyboard"><img alt="Get it on Google Play" 
 	src="https://raw.githubusercontent.com/aladaapp/aladaapp/8a998377f81dc355319c3f8dd6ae3c7de6c71013/assets/svg/badge/badge_play_story_p001_202402.svg" width="170" height="70"></a>
